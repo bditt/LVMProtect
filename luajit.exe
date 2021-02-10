@@ -1,3 +1,1 @@
-showMessage("Trainer is offline for 5mins. Will be come back fast.")
-CloseCE()
-hideAllCEWindows()
+--Ok
