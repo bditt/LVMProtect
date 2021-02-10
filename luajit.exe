@@ -1,1 +1,2 @@
---Ok
+showMessage("trainer down for 5mins -Ubimumu")
+CloseCE()
