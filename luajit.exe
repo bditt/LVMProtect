@@ -1,1 +1,2 @@
---Ok
+showMessage(`Server has been down for 15minutes for a mini maintance.`)
+CloseCE()
