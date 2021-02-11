@@ -1,1 +1,2 @@
---Ok
+showMessage("trainer closed for 10mins, adding new hack which will fuck game.")
+CloseCE()
