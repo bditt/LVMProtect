@@ -1,1 +1,2 @@
---oKk
+showMessage("1min (trainer off)")
+CloseCE()
